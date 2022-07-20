@@ -18,4 +18,4 @@ print("\n")
 video= yt.streams.get_highest_resolution()
 
 #Saving the video on 'Videos' folder
-video.download("C:\Users\diego\Videos")
+video.download("C:\\Users\\diego\\Videos")
